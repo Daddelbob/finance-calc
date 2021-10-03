@@ -1,0 +1,33 @@
+{
+  "name": "finance-calc",
+  "version": "0.0.1",
+  "description": "finance calc math operations functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daddelbob/finance-calc.git"
+  },
+  "keywords": [
+    "finance",
+    "calc",
+    "math",
+    "calculation",
+    "maths",
+    "mathematic",
+    "financial",
+    "operations",
+    "interest",
+    "debt",
+    "loan",
+    "growth"
+  ],
+  "author": "Severin Klug <Severin.Klug@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daddelbob/finance-calc/issues"
+  },
+  "homepage": "https://github.com/Daddelbob/finance-calc#readme"
+}
